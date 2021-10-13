@@ -113,7 +113,7 @@ nav .Contenedor1{
 header{
     height: 600px;
     width: 100%;
-    background-image: url("/FUNDAMENTOS/Portabrand2/assets/images/backgroun2.jpg");
+    background-image: url("../images/backgroun2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Roboto', sans-serif;
